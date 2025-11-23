@@ -1,9 +1,13 @@
 <h2> Hi, I'm Ollan Muza!</h2>
-<img src="./FacingLaptopSVG.svg" alt="Facing laptop" />
 
-<p>Manufacturing Enginner at <strong>PepsiCo</strong><br/>
-<p>Software Enginner at <strong>Toru Digital</strong><br/>
-<p>Software Enginner at <strong>Asideofcode</strong><br/>
+<div style="display: flex; justify-content: space-between; gap: 12px;">
+  <img src="./FacingLaptopSVG.svg" alt="Facing laptop" width="120"/>
+  <div>
+    <p>Manufacturing Engineer at <strong>PepsiCo</strong></p>
+    <p>Software Engineer at <strong>Toru Digital</strong></p>
+    <p>Software Engineer at <strong>Asideofcode</strong></p>
+  </div>
+</div>
 
 Software Engineer at
 
