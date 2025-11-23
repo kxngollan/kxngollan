@@ -1,12 +1,12 @@
 <h2> Hi, I'm Ollan Muza!</h2>
 
-  <div>
-    <h4>Experience</h4>
-    <p>Manufacturing Engineer at <strong>PepsiCo</strong></p>
-    <p>Software Engineer at <strong>Toru Digital</strong></p>
-    <p>Software Engineer at <strong>Asideofcode</strong></p>
-  </div>
-  <img align="right" src="./FacingLaptopSVG.svg" alt="Facing laptop" width="120"/>
+<img align="right" src="./FacingLaptopSVG.svg" alt="Facing laptop" width="120"/>
+
+<h4>Experience</h4>
+<p>Manufacturing Engineer at <strong>PepsiCo</strong></p>
+<p>Software Engineer at <strong>Toru Digital</strong></p>
+<p>Software Engineer at <strong>Asideofcode</strong></p>
+
 
 [![Linkedin: Ollan-Muza](https://img.shields.io/badge/-ollanmuza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ollan-m/)](https://www.linkedin.com/in/ollan-m/)
 
