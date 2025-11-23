@@ -1,11 +1,14 @@
 <h2> Hi, I'm Ollan Muza!</h2>
 
 <div style="display: flex; justify-content: space-between; gap: 12px;">
-  <img src="./FacingLaptopSVG.svg" alt="Facing laptop" width="120"/>
   <div>
+    <h4>Experience</h4>
     <p>Manufacturing Engineer at <strong>PepsiCo</strong></p>
     <p>Software Engineer at <strong>Toru Digital</strong></p>
     <p>Software Engineer at <strong>Asideofcode</strong></p>
+  </div>
+  <div style="">
+  <img src="./FacingLaptopSVG.svg" alt="Facing laptop" width="120"/>
   </div>
 </div>
 
