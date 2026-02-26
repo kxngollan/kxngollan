@@ -14,17 +14,17 @@
 
 ### A little more about me...
 
-```javascript
+```JavaScript
 const Ollan = {
   pronouns: He | Him,
-  code: [JavaScript, TypeScript,Php, C-Sharp, Html, Css, Ruby, Python, Java],
-  tools: [React, Vue, Laravel, MySQL, Postgres, Node, Dotnet, Docker, Aws, Azure],
-  architecture: ["Web development","microservices", "event-driven", "design system pattern"],
+  code: [JavaScript, TypeScript, PHP, Java, C Sharp, Python, Ruby, HTML, CSS, ],
+  tools: [React, Vue, Laravel, MySQL, Postgres, Node, Dotnet, Docker, AWS, Azure],
+  architecture: ["Web development", "microservices", "event-driven", "design system pattern"],
   About: {
     From: United Kingdom 🇬🇧,
     Hobbies: [Chess, Basketball, Football, Travelling, Cooking]
   },
-  challenge:
+  challenges:
     "I am doing the #100DaysOfCode challenge focused on React and TypeScript",
 };
 
