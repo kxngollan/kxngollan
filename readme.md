@@ -17,9 +17,9 @@
 ```JavaScript
 const Ollan = {
   pronouns: He | Him,
-  code: [JavaScript, TypeScript, PHP, Java, C Sharp, Python, Ruby, HTML, CSS, ],
-  tools: [React, Vue, Laravel, MySQL, Postgres, Node, Dotnet, Docker, AWS, Azure],
-  architecture: ["Web development", "microservices", "event-driven", "design system pattern"],
+  code: ["JavaScript", "TypeScript", "PHP", "Java", "C#", "Python", "Ruby", "HTML", "CSS"],
+  tools: ["React", "Vue", "Laravel", "MySQL", "Postgres", "Node", "Dotnet", "Docker", "AWS", "Azure"],
+  architecture: ["Web Development", "Microservices", "Event-Driven", "Design System Pattern"],
   About: {
     From: United Kingdom 🇬🇧,
     Hobbies: [Chess, Basketball, Football, Travelling, Cooking]
