@@ -3,7 +3,7 @@
 <img align="right" src="./FacingLaptopSVG.svg" alt="Facing laptop" width="120"/>
 
 <h4>Experience</h4>
-<p>Manufacturing Engineer at <strong>PepsiCo</strong></p>
+<p>Software Engineer at <strong>PepsiCo</strong></p>
 <p>Software Engineer at <strong>Toru Digital</strong></p>
 <p>Software Engineer at <strong>Asideofcode</strong></p>
 
